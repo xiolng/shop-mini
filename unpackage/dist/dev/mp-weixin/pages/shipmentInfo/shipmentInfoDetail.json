@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "出货信息详情",
+  "usingComponents": {
+    "u-field": "/node-modules/uview-ui/components/u-field/u-field"
+  }
+}

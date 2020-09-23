@@ -1,0 +1,1 @@
+<view class="z-title data-v-5acb1816"><block wx:if="{{$slots.icon}}"><slot name="icon"></slot></block><block wx:else><view class="{{['data-v-5acb1816',icon&&icon.length?'icon':'']}}">{{icon}}</view></block><block wx:if="{{$slots.title}}"><slot name="title"></slot></block><block wx:else><view class="title data-v-5acb1816">{{title}}</view></block></view>

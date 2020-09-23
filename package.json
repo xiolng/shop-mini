@@ -1,0 +1,20 @@
+{
+  "name": "shop-mini",
+  "version": "1.0.0",
+  "description": "zzn",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zzn"
+  ],
+  "author": "zzn",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "follow-redirects": "^1.13.0",
+    "tki-qrcode": "^0.1.6",
+    "uview-ui": "^1.7.3"
+  }
+}

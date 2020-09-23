@@ -1,0 +1,1 @@
+<view class="shipment-info-detail"><view class="item-box"><u-field vue-id="3d58356f-1" label="名称:" value="{{2222}}" disabled="{{true}}" bind:__l="__l"></u-field><u-field vue-id="3d58356f-2" label="数量:" value="{{2222}}" disabled="{{true}}" bind:__l="__l"></u-field></view></view>
